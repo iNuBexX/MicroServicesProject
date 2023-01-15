@@ -1,5 +1,5 @@
 # MicroServicesProject
-a project for the soc subject
+A project for the soc subject
 elaborated by :
 
 Ben Mansour Mahdi
